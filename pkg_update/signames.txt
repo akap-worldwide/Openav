@@ -1,0 +1,11 @@
+sanesecurity.ftm
+sigwhitelist.ign2
+phish.ndb
+badmacro.ndb
+rogue.hdb
+foxhole_filename.cdb
+foxhole_generic.cdb
+scam.ndb
+junk.ndb
+jurlbl.ndb
+blurl.ndb

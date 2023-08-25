@@ -1,0 +1,6 @@
+Started: 25-08-2023-18:23:34.40 
+Downloading files from mirror...  
+opening tcp connection to rsync.sanesecurity.net port 873
+sending daemon args: --server --sender -vvtpze.LsfxCIvu --timeout=120 . "sanesecurity/*"  (6 args)
+
+Finished: 25-08-2023-18:23:38.25 
